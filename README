@@ -1,8 +1,8 @@
 Da-Cheng's LeetCode Repository
 
 Each file contains:
-(1) Problem description
+(1) Problem description (http://oj.leetcode.com/problems/)
 (2) Concept to solve the problem
-(3) Complexity analysis
+(3) Complexity analysis (time and space)
 (4) Implementation
 (5) Small testbench
