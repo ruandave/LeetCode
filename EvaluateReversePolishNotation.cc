@@ -15,7 +15,7 @@ using namespace std;
 class Solution
 {
     public:
-        // Using a stack. Consider only valid expression due to prob. description. 
+        // Using a stack. Consider only valid expression. 
         // (1) Operand input: push_back 
         // (2) Operator input: pop_back two operands, evaluate, and push the result back 
         // Time: O(n)
